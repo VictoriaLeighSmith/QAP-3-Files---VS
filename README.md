@@ -17,7 +17,8 @@ QAP_3_Files_VS/
 └── QAP 3 - Web/
     ├── index.html
     ├── script.js
-    └── styles.css
+    ├── styles.css
+    └── Images/
 
 **QAP 3 Python - Description:
 
