@@ -7,6 +7,7 @@ Repo containing both Python and Web Dev QAP 3 assignments:
 
 Repository Structure:
 
+```
 QAP_3_Files_VS/
 │  
 ├── QAP 3 - Python/  
@@ -18,7 +19,8 @@ QAP_3_Files_VS/
     ├── index.html  
     ├── script.js  
     ├── styles.css  
-    └── Images/  
+    └── Images/
+```
 
 **QAP 3 Python - Description:
 
