@@ -1,0 +1,78 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url("Images/natural-background-with-green-lawn-free-photo.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.mainbox {
+  width: 1000px;
+  background-color: transparent;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: left;
+}
+
+/*  General classes for the page */
+.boldtext {
+  font-weight: 700;
+}
+
+.centertext {
+  text-align: center;
+}
+
+/* Styles for the invoice table (main section) */
+table,
+th,
+td {
+  border: 1px solid;
+  border-collapse: collapse;
+  padding: 4px;
+  background-color: white;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.invoicetable {
+  width: 400px;
+  margin: auto;
+}
+
+.invoicetable .lefttext {
+  text-align: left;
+}
+
+.invoicetable .righttext {
+  text-align: right;
+}
+
+.invoicetable .centertext {
+  text-align: center;
+}
+
+.invoicetable .italictext {
+  font-style: italic;
+}
+
+.invoicetable .purpbackheadertext {
+  text-align: center;
+  background-color: rgba(183, 1, 77, 0.617);
+  font-size: 14pt;
+  font-weight: 700;
+}
+
+.invoicetable .purpbackfootertext {
+  text-align: center;
+  background-color: rgba(183, 1, 77, 0.617);
+  font-size: 13pt;
+  font-weight: 700;
+  font-style: italic;
+}
