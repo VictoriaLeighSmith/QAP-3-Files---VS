@@ -8,17 +8,17 @@ Repo containing both Python and Web Dev QAP 3 assignments:
 Repository Structure:
 
 QAP_3_Files_VS/
-│
-├── QAP 3 - Python/
-│   ├── HonestHarry.py
-│   ├── ValidateInputs.py
-│   └── FormatValues.py
-│
-└── QAP 3 - Web/
-    ├── index.html
-    ├── script.js
-    ├── styles.css
-    └── Images/
+│  
+├── QAP 3 - Python/  
+│   ├── HonestHarry.py  
+│   ├── ValidateInputs.py  
+│   └── FormatValues.py  
+│  
+└── QAP 3 - Web/  
+    ├── index.html  
+    ├── script.js  
+    ├── styles.css  
+    └── Images/  
 
 **QAP 3 Python - Description:
 
@@ -43,10 +43,10 @@ How to run:
 3. Follow the prompts to view the generated invoice table.
 
 **********************************************
-Author: Victoria Smith
-Keyin College (Software Development Program)
-QAP 3 - Web Development and Python Programming
-November 2025
+Author: Victoria Smith  
+Keyin College (Software Development Program)  
+QAP 3 - Web Development and Python Programming  
+November 2025  
 
 
 
